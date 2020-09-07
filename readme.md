@@ -56,7 +56,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -rood-
+**Je startniveau:** -blauw-
 
 **Je focus:** -surface plane-
 
