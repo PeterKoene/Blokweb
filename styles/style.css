@@ -3,3 +3,52 @@
   box-sizing:border-box;  
 }
 
+.homepage {
+	background-color: beige;
+	border-radius: 0px;
+	padding-bottom: 0px;
+}
+
+.index {
+	background-image:url(images/pexels-ready-made-4013773.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px 800px;
+}
+
+.titel {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.navhome {
+	text-align: center;
+	font-family: sans-serif;
+
+}
+
+.locator {
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.undefined {
+	text-align: center;
+	font-family: sans-serif;
+
+}
+
+.zoekmenu {
+	background-color: #291913;
+	font-family: sans-serif;
+	color: white;
+}
+
+.afhalen {
+	color: black;
+	font-family: sans-serif;
+}
+
+.waarvandaan {
+	color: black;
+	font-family: sans-serif;
+}
